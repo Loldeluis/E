@@ -14,5 +14,8 @@ public class prueba {
 
         System.out.println("Se necesitan " + naranjasNecesarias + " naranjas para producir " + kilovoltiosNecesarios + " kilovoltios.");
         System.out.println("El peso necesario es de " + pesoNaranjasToneladas + " toneladas.");
+        System.out.println("El peso de un pollo promedio es de 5 kilos ");
+       
+        
     }
 }
